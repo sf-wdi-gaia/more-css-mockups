@@ -8,9 +8,9 @@ Market: SF
 
 ## Introduction
 
-Practice makes perfect. Using your improving skills, recreate one of the mockups below using your own HTML, CSS and basic Javascript. Don't worry if you can't get it to look _exactly_ as you see but try your best to get as close as possible.
+Practice makes perfect. Using your improving skills, recreate one of the mockups below using your own HTML, CSS and basic Javascript. Don't worry if you can't get it to look _exactly_ pixel perfect, but get it as close as possible.
 
-Fork and clone this repository and get to work!
+Fork and clone this repository to get started!
 
 ## Exercise
 
@@ -26,11 +26,12 @@ Fork and clone this repository and get to work!
 - Use the images provided to construct the appropriate elements on the page
 - Follow naming conventions, maintain consistency across HTML and CSS files and use best practices for naming id's and classes.
 
-**Bonus:**
+#### Bonus Ideas
 
-- Make it even better! Add an animation, experiment with `hover`, make it fun.
-- Style your text with a Google Font. (Yes, it will look different -- and hopefully better!)
-- Create your own responsive design with @media queries for at least one distinct breakpoint (no mockups provided)
+- Create a responsive design with at least one distinct breakpoint (no mockups provided)
+- Add an [CSS animation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- Experiment with more user events like `hover`
+- Style the text with a Google Fonts
 
 #### Starter code
 
@@ -39,9 +40,7 @@ The starter-code contains all the files, images, and text content needed to crea
 #### Deliverable
 
 - When you're finished, push your code to your fork of this repo and submit a pull request (PR).
-- DO NOT use the solution code for source code. We wil know. You may use it for ideas if you get stuck. 
-- STRETCH: Really good at CSS? Take screen shots of a more complex site and blow our minds.
-
+- DO NOT use the solution code as your own, but do compare your solution to it after you give your best effort.
 
 ### Additional Resources
 
